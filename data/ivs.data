@@ -1,0 +1,5 @@
+classes = 9
+train = data/ivs.txt
+valid = data/ivs.txt
+names = data/ivs.names
+backup = ivs_backup/
